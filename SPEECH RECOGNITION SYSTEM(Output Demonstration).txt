@@ -1,0 +1,14 @@
+Output Demonstration:
+
+Step 1
+Upload the program to Arduino.
+Step 2
+Train voice commands in the module:
+Command 1 → “Light ON”
+Command 2 → “Light OFF”
+Step 3
+Speak command:
+User: “Light ON” 
+System: LED/Light turns ON 
+User: “Light OFF” 
+System: LED/Light turns OFF
