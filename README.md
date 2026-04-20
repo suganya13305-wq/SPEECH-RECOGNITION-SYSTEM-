@@ -5,3 +5,4 @@ INTERN ID: CTIS7166.
 DOMAIN: EMBEDDED SYSTEM.
 DURATION:12 WEEKS.
 MENTOR NAME: NEELA SANTHOSH KUMAR.
+OUTPUT:<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/76ecf9f5-a5c4-4012-95e5-11a7f00c9c18" />
